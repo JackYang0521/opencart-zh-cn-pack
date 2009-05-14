@@ -1,11 +1,11 @@
 <?php
 // Heading  
-$_['heading_title']   = 'Shopping Cart';
+$_['heading_title']   = '购物袋';
 
 // Text
 $_['text_basket']     = 'Basket';
 $_['text_subtotal']   = 'Sub-Total:';
-$_['text_error']      = 'Your shopping cart is empty!';
+$_['text_error']      = '空空的哦，先逛逛吧 :)';
 
 // Columns
 $_['column_remove']   = 'Remove';

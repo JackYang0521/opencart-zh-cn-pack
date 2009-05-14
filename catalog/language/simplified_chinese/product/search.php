@@ -1,10 +1,10 @@
 <?php
 // Heading
-$_['heading_title']     = 'Search';
+$_['heading_title']     = '搜索';
  
 // Text
 $_['text_search']       = 'Products meeting the search criteria';
-$_['text_keywords']     = 'Keywords';
+$_['text_keywords']     = '关键词';
 $_['text_critea']       = 'Search Criteria';
 $_['text_empty']        = 'There is no product that matches the search criteria.';
 $_['text_stars']        = '%s out of 5 Stars!';
