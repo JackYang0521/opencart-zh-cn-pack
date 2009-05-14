@@ -1,14 +1,14 @@
 <?php
 // Heading 
-$_['heading_title']     = 'Address Book';
+$_['heading_title']     = '送货地址';
 
 // Text
-$_['text_account']      = 'Account';
-$_['text_address_book'] = 'Address Book Entries';
-$_['text_edit_address'] = 'Edit Address';
-$_['text_insert']       = 'Your address has been successfully inserted';
-$_['text_update']       = 'Your address has been successfully updated';
-$_['text_delete']       = 'Your address has been successfully deleted';
+$_['text_account']      = '账户';
+$_['text_address_book'] = '送货地址列表';
+$_['text_edit_address'] = '修改地址';
+$_['text_insert']       = '地址成功添加';
+$_['text_update']       = '地址成功更新';
+$_['text_delete']       = '地址成功删除';
 
 // Entry
 $_['entry_firstname']   = 'First Name:';
